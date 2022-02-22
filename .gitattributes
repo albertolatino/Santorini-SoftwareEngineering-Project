@@ -1,4 +1,5 @@
 * linguist-vendored
 *.java linguist-vendored=false
+*.css linguist-vendored=false
 
 
